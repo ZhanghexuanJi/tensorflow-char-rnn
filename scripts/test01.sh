@@ -8,4 +8,4 @@ python train.py \
        --output_dir=homework \
        --dropout=0.1 \
 
-tensorboard --logdir=large/tensorboard_log/ --port=6007
+tensorboard --logdir=large/tensorboard_log/ --port=6010
